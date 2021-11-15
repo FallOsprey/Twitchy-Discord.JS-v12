@@ -1,0 +1,17 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "github:discordjs/builders",
+    "date-fns": "^2.23.0",
+    "dateformat": "^4.5.1",
+    "discord.js": "^13.1.0",
+    "fetch": "^1.1.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.7",
+    "node-fetch": "^2.6.1",
+    "snekfetch": "^4.0.4"
+  }
+}

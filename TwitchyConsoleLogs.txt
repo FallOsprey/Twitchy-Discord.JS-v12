@@ -1,0 +1,377 @@
+Aug 17th 12:02am: [CLIENT] Loaded twitch command followers.
+Aug 17th 12:02am: [CLIENT] Loaded twitch command stream.
+Aug 17th 12:02am: [CLIENT] Loaded twitch command topclip.
+Aug 17th 12:02am: [CLIENT] Loaded utility command help.
+Aug 17th 12:02am: [CLIENT] Loaded utility command invite.
+Aug 17th 12:02am: [CLIENT] Loaded utility command ping.
+Aug 17th 12:02am: [CLIENT] Loaded utility command support.
+Aug 17th 12:02am: [CLIENT] Loaded discord event message.
+Aug 17th 12:02am: [CLIENT] Loaded discord event ready.
+Aug 17th 12:02am: [SUCCESS] Bot started successfully as Twitchy#9854
+Aug 17th 12:02am: [SUCCESS] Bot started successfully in 42 servers.
+Club de las Mandarinas | 876254040386863176 | 12 Members
+Ezzie's World | 863969223760281640 | 22 Members
+Server Toad | 861330926495727637 | 48 Members
+#soggybean SMP | 809157086293262346 | 2 Members
+เซิร์ฟเวอร์ของ MOMEN | 803295187664240671 | 3 Members
+Nashe server | 876177582633152562 | 11 Members
+GML Gaming | 876289966982979626 | 11 Members
+FallOsprey | 812706643799310368 | 7 Members
+Eldrimo's Test Zone | 859159267045933097 | 13 Members
+Valentine&Spooders Gaming Channel | 876255563766440026 | 15 Members
+BITHDAY | 824622208198508584 | 2 Members
+Eldrimo's Lounge | 833802733869334588 | 17 Members
+ＥＶＩＬ ϟＧ４ＮＧ | 746919308600410132 | 55 Members
+VIBIZTHAN | 870517942268334130 | 91 Members
+friends | 862608856135368714 | 87 Members
+BMW | 874302806713065512 | 30 Members
+` PİSTOL ARMY TEAM | 805511631801942076 | 600 Members
+Gaming.@ | 875231779294965760 | 6 Members
+Maffy • | • Support & BotList | 814148358474039377 | 818 Members
+Twitch/eldomi__17 | 740062503517683902 | 19 Members
+CausativeFire's server | 838854056608530432 | 8 Members
+blueyblueblue community | 552776169699803147 | 62 Members
+#Fāđĕø° | 751814591960449156 | 23 Members
+! ! ! ! ! | 876800899689897995 | 447 Members
+Dora | 711877553987649616 | 46 Members
+TeamVEX | 876178449763561512 | 15 Members
+Fall's World | 748572821156003992 | 43 Members
+HooligansFn | 752559598421934090 | 11 Members
+A revolução | 875838189791752242 | 17 Members
+@everyone = admin | 874817144930598922 | 115 Members
+𝓣𝓱𝓮 𝓦𝓱𝓲𝓽𝓮 𝓢𝓽𝓾𝓭𝓲𝓸 | 806370264647860254 | 62 Members
+Grupo Dos Ferro 5 | 599026285976616971 | 12 Members
+The casino. | 858081151834128426 | 7 Members
+EĞLENME MEKANI | 853336184331698177 | 16 Members
+Fraude MEKANI | 876143497487462550 | 12 Members
+ConstEagle.tk - Botlist | 742001124457971765 | 843 Members
+Furry Streamers México | 831740910354038824 | 9 Members
+Attack on titan fan club | 874356778358419458 | 11 Members
+Vibbo | 871543485906448434 | 24 Members
+El servidor de Meliodas | 876259782749749279 | 11 Members
+ˢᵉʳᵛe memizado | 861729381827608596 | 42 Members
+Twitchy Development | 874465554163970070 | 15 Members
+Mongoose has successfully connected!
+Mongoose has successfully connected!
+(node:36) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:36) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:36) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:36) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:36) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:36) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:36) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+{
+  _id: 611ae0dc2ff4320024420b26,
+  guildID: '874817144930598922',
+  guildName: '@everyone = admin',
+  prefix: '==',
+  __v: 0
+}
+{
+  _id: 611ae0dc2ff4320024420b2f,
+  guildID: '874817144930598922',
+  guildName: '@everyone = admin',
+  prefix: '==',
+  __v: 0
+}
+{
+  _id: 611ae0dc2ff4320024420b34,
+  guildID: '874817144930598922',
+  guildName: '@everyone = admin',
+  prefix: '==',
+  __v: 0
+}
+{
+  _id: 611ae0dd2ff4320024420b39,
+  guildID: '874817144930598922',
+  guildName: '@everyone = admin',
+  prefix: '==',
+  __v: 0
+}
+(node:36) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at runNextTicks (internal/process/task_queues.js:64:3)
+    at processImmediate (internal/timers.js:435:9)
+(node:36) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+{
+  _id: 611ae1132ff4320024420b52,
+  guildID: '871543485906448434',
+  guildName: 'Vibbo',
+  prefix: '==',
+  __v: 0
+}
+Aug 17th 12:11am: [EXECUTION] FallOsprey#9935 (688419859981402265) ran command: [ ==help ] in FallOsprey.
+Aug 17th 12:11am: [EXECUTION] FallOsprey#9935 (688419859981402265) ran command: [ !ping ] in FallOsprey.
+(node:36) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:36) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+{
+  _id: 611ae2cb2ff4320024420c64,
+  guildID: '875838189791752242',
+  guildName: 'A revolução',
+  prefix: '==',
+  __v: 0
+}
+Aug 17th 12:14am: [EXECUTION] FallOsprey#9935 (688419859981402265) ran command: [ !ping ] in FallOsprey.
+Aug 17th 12:14am: [EXECUTION] FallOsprey#9935 (688419859981402265) ran command: [ !ping ] in FallOsprey.
+(node:36) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:36) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+{
+  _id: 611ae3332ff4320024420ca2,
+  guildID: '746919308600410132',
+  guildName: 'ＥＶＩＬ ϟＧ４ＮＧ',
+  prefix: '==',
+  __v: 0
+}
+(node:36) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:36) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 7)
+{
+  _id: 611ae3762ff4320024420cb5,
+  guildID: '812706643799310368',
+  guildName: 'FallOsprey',
+  prefix: '==',
+  __v: 0
+}
+Aug 17th 12:15am: [EXECUTION] FallOsprey#9935 (688419859981402265) ran command: [ ==ping ] in FallOsprey.
+container@pterodactyl~ Server marked as stopping...
+container@pterodactyl~ Server marked as offline...
+
+[Pterodactyl Daemon]: Checking server disk space usage, this could take a few seconds...
+[Pterodactyl Daemon]: Updating process configuration files...
+[Pterodactyl Daemon]: Ensuring file permissions are set correctly, this could take a few seconds...
+container@pterodactyl~ Server marked as starting...
+[Pterodactyl Daemon]: Pulling Docker container image, this could take a few minutes to complete...
+[Pterodactyl Daemon]: Finished pulling Docker container image
+:/home/container$ if [[ -d .git ]] && [[ ${AUTO_UPDATE} == "1" ]]; then git pull; fi; if [[ ! -z ${NODE_PACKAGES} ]]; then /usr/local/bin/npm install ${NODE_PACKAGES}; fi; if [ -f /home/container/package.json ]; then /usr/local/bin/npm install --production; fi; /usr/local/bin/node /home/container/${BOT_JS_FILE}
+npm WARN bot-template@1.0.0 No repository field.
+npm WARN bot-template@1.0.0 No license field.
+
++ mongoose@5.13.7
+updated 1 package and audited 60 packages in 2.447s
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+npm WARN bot-template@1.0.0 No repository field.
+npm WARN bot-template@1.0.0 No license field.
+
+audited 60 packages in 1.073s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+(node:37) [MONGODB DRIVER] DeprecationWarning: The option `reconnectTries` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:37) [MONGODB DRIVER] DeprecationWarning: The option `reconnectInterval` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+Aug 17th 12:16am: [CLIENT] Loaded WIP command test429.
+Aug 17th 12:16am: [CLIENT] Loaded WIP command setprefix.
+Aug 17th 12:16am: [CLIENT] Loaded serverSetup command embed.
+Aug 17th 12:16am: [CLIENT] Loaded serverSetup command serverrules284.
+Aug 17th 12:16am: [CLIENT] Loaded twitch command channel.
+Aug 17th 12:16am: [CLIENT] Loaded twitch command followers.
+Aug 17th 12:16am: [CLIENT] Loaded twitch command stream.
+Aug 17th 12:16am: [CLIENT] Loaded twitch command topclip.
+Aug 17th 12:16am: [CLIENT] Loaded utility command help.
+Aug 17th 12:16am: [CLIENT] Loaded utility command invite.
+Aug 17th 12:16am: [CLIENT] Loaded utility command ping.
+Aug 17th 12:16am: [CLIENT] Loaded utility command support.
+Aug 17th 12:16am: [CLIENT] Loaded discord event message.
+Aug 17th 12:16am: [CLIENT] Loaded discord event ready.
+Aug 17th 12:16am: [SUCCESS] Bot started successfully as Twitchy#9854
+Aug 17th 12:16am: [SUCCESS] Bot started successfully in 42 servers.
+Club de las Mandarinas | 876254040386863176 | 12 Members
+Ezzie's World | 863969223760281640 | 22 Members
+Server Toad | 861330926495727637 | 48 Members
+#soggybean SMP | 809157086293262346 | 2 Members
+เซิร์ฟเวอร์ของ MOMEN | 803295187664240671 | 3 Members
+Nashe server | 876177582633152562 | 11 Members
+GML Gaming | 876289966982979626 | 11 Members
+FallOsprey | 812706643799310368 | 7 Members
+Eldrimo's Test Zone | 859159267045933097 | 13 Members
+Valentine&Spooders Gaming Channel | 876255563766440026 | 15 Members
+BITHDAY | 824622208198508584 | 2 Members
+Eldrimo's Lounge | 833802733869334588 | 17 Members
+ＥＶＩＬ ϟＧ４ＮＧ | 746919308600410132 | 55 Members
+VIBIZTHAN | 870517942268334130 | 91 Members
+friends | 862608856135368714 | 87 Members
+BMW | 874302806713065512 | 30 Members
+` PİSTOL ARMY TEAM | 805511631801942076 | 600 Members
+Gaming.@ | 875231779294965760 | 6 Members
+Maffy • | • Support & BotList | 814148358474039377 | 818 Members
+Twitch/eldomi__17 | 740062503517683902 | 19 Members
+CausativeFire's server | 838854056608530432 | 8 Members
+blueyblueblue community | 552776169699803147 | 62 Members
+#Fāđĕø° | 751814591960449156 | 23 Members
+! ! ! ! ! | 876800899689897995 | 472 Members
+Dora | 711877553987649616 | 46 Members
+TeamVEX | 876178449763561512 | 15 Members
+Fall's World | 748572821156003992 | 43 Members
+HooligansFn | 752559598421934090 | 11 Members
+A revolução | 875838189791752242 | 17 Members
+@everyone = admin | 874817144930598922 | 117 Members
+𝓣𝓱𝓮 𝓦𝓱𝓲𝓽𝓮 𝓢𝓽𝓾𝓭𝓲𝓸 | 806370264647860254 | 62 Members
+Grupo Dos Ferro 5 | 599026285976616971 | 12 Members
+The casino. | 858081151834128426 | 7 Members
+EĞLENME MEKANI | 853336184331698177 | 16 Members
+Fraude MEKANI | 876143497487462550 | 12 Members
+ConstEagle.tk - Botlist | 742001124457971765 | 843 Members
+Furry Streamers México | 831740910354038824 | 9 Members
+Attack on titan fan club | 874356778358419458 | 11 Members
+Vibbo | 871543485906448434 | 24 Members
+El servidor de Meliodas | 876259782749749279 | 11 Members
+ˢᵉʳᵛe memizado | 861729381827608596 | 42 Members
+Twitchy Development | 874465554163970070 | 15 Members
+Mongoose has successfully connected!
+Mongoose has successfully connected!
+(node:37) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:37) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:37) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+{
+  _id: 611ae3ea90b2460025daea14,
+  guildID: '876254040386863176',
+  guildName: 'Club de las Mandarinas',
+  prefix: '=',
+  __v: 0
+}
+(node:37) UnhandledPromiseRejectionWarning: DiscordAPIError: Missing Permissions
+    at RequestHandler.execute (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:154:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async RequestHandler.push (/home/container/node_modules/discord.js/src/rest/RequestHandler.js:39:14)
+(node:37) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:37) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:37) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+{
+  _id: 611ae43190b2460025daea27,
+  guildID: '874817144930598922',
+  guildName: '@everyone = admin',
+  prefix: '=',
+  __v: 0
+}
+(node:37) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'prefix' of null
+    at Object.execute (/home/container/src/events/message.js:29:33)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(node:37) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+{
+  _id: 611ae43690b2460025daea2e,
+  guildID: '861729381827608596',
+  guildName: 'ˢᵉʳᵛe memizado',
+  prefix: '=',
+  __v: 0
+}
+container@pterodactyl~ Server marked as stopping...
+container@pterodactyl~ Server marked as offline...
+
+[Pterodactyl Daemon]: Checking server disk space usage, this could take a few seconds...
+[Pterodactyl Daemon]: Updating process configuration files...
+[Pterodactyl Daemon]: Ensuring file permissions are set correctly, this could take a few seconds...
+container@pterodactyl~ Server marked as starting...
+[Pterodactyl Daemon]: Pulling Docker container image, this could take a few minutes to complete...
+[Pterodactyl Daemon]: Finished pulling Docker container image
+:/home/container$ if [[ -d .git ]] && [[ ${AUTO_UPDATE} == "1" ]]; then git pull; fi; if [[ ! -z ${NODE_PACKAGES} ]]; then /usr/local/bin/npm install ${NODE_PACKAGES}; fi; if [ -f /home/container/package.json ]; then /usr/local/bin/npm install --production; fi; /usr/local/bin/node /home/container/${BOT_JS_FILE}
+npm WARN bot-template@1.0.0 No repository field.
+npm WARN bot-template@1.0.0 No license field.
+
++ mongoose@5.13.7
+updated 1 package and audited 60 packages in 3.407s
+
+2 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+npm WARN bot-template@1.0.0 No repository field.
+npm WARN bot-template@1.0.0 No license field.
+
+audited 60 packages in 1.403s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+(node:36) [MONGODB DRIVER] DeprecationWarning: The option `reconnectTries` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:36) [MONGODB DRIVER] DeprecationWarning: The option `reconnectInterval` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+Aug 17th 12:22am: [CLIENT] Loaded WIP command test429.
+Aug 17th 12:22am: [CLIENT] Loaded WIP command setprefix.
+Aug 17th 12:22am: [CLIENT] Loaded serverSetup command embed.
+Aug 17th 12:22am: [CLIENT] Loaded serverSetup command serverrules284.
+Aug 17th 12:22am: [CLIENT] Loaded twitch command channel.
+Aug 17th 12:22am: [CLIENT] Loaded twitch command followers.
+Aug 17th 12:22am: [CLIENT] Loaded twitch command stream.
+Aug 17th 12:22am: [CLIENT] Loaded twitch command topclip.
+Aug 17th 12:22am: [CLIENT] Loaded utility command help.
+Aug 17th 12:22am: [CLIENT] Loaded utility command invite.
+Aug 17th 12:22am: [CLIENT] Loaded utility command ping.
+Aug 17th 12:22am: [CLIENT] Loaded utility command support.
+Aug 17th 12:22am: [CLIENT] Loaded discord event message.
+Aug 17th 12:22am: [CLIENT] Loaded discord event ready.
+Mongoose has successfully connected!
+Mongoose has successfully connected!
+Aug 17th 12:22am: [SUCCESS] Bot started successfully as Twitchy#9854
+Aug 17th 12:22am: [SUCCESS] Bot started successfully in 42 servers.
+Club de las Mandarinas | 876254040386863176 | 14 Members
+Ezzie's World | 863969223760281640 | 22 Members
+Server Toad | 861330926495727637 | 48 Members
+#soggybean SMP | 809157086293262346 | 2 Members
+เซิร์ฟเวอร์ของ MOMEN | 803295187664240671 | 3 Members
+Nashe server | 876177582633152562 | 11 Members
+GML Gaming | 876289966982979626 | 11 Members
+FallOsprey | 812706643799310368 | 7 Members
+Eldrimo's Test Zone | 859159267045933097 | 13 Members
+Valentine&Spooders Gaming Channel | 876255563766440026 | 15 Members
+BITHDAY | 824622208198508584 | 2 Members
+Eldrimo's Lounge | 833802733869334588 | 17 Members
+ＥＶＩＬ ϟＧ４ＮＧ | 746919308600410132 | 55 Members
+VIBIZTHAN | 870517942268334130 | 91 Members
+friends | 862608856135368714 | 87 Members
+BMW | 874302806713065512 | 30 Members
+` PİSTOL ARMY TEAM | 805511631801942076 | 600 Members
+Gaming.@ | 875231779294965760 | 6 Members
+Maffy • | • Support & BotList | 814148358474039377 | 818 Members
+Twitch/eldomi__17 | 740062503517683902 | 19 Members
+CausativeFire's server | 838854056608530432 | 8 Members
+blueyblueblue community | 552776169699803147 | 62 Members
+#Fāđĕø° | 751814591960449156 | 23 Members
+! ! ! ! ! | 876800899689897995 | 498 Members
+Dora | 711877553987649616 | 46 Members
+TeamVEX | 876178449763561512 | 15 Members
+Fall's World | 748572821156003992 | 43 Members
+HooligansFn | 752559598421934090 | 11 Members
+A revolução | 875838189791752242 | 17 Members
+@everyone = admin | 874817144930598922 | 117 Members
+𝓣𝓱𝓮 𝓦𝓱𝓲𝓽𝓮 𝓢𝓽𝓾𝓭𝓲𝓸 | 806370264647860254 | 62 Members
+Grupo Dos Ferro 5 | 599026285976616971 | 12 Members
+The casino. | 858081151834128426 | 7 Members
+EĞLENME MEKANI | 853336184331698177 | 16 Members
+Fraude MEKANI | 876143497487462550 | 12 Members
+ConstEagle.tk - Botlist | 742001124457971765 | 843 Members
+Furry Streamers México | 831740910354038824 | 9 Members
+Attack on titan fan club | 874356778358419458 | 11 Members
+Vibbo | 871543485906448434 | 24 Members
+El servidor de Meliodas | 876259782749749279 | 11 Members
+ˢᵉʳᵛe memizado | 861729381827608596 | 42 Members
+Twitchy Development | 874465554163970070 | 15 Members
