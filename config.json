@@ -1,17 +1,1 @@
-{
-    "TOKEN": "ODc0Mjk1MjU3Mjg4ODA2NDAx.YRE46A.r8yFlqIwmeHjXZINvHTOVwVA7gk",
-    "BETATOKEN": "ODc2NTMwNTgyMTY1ODAzMDg5.YRlatw.rjwTN2oTawlnzQt5zGHSL9GXrDg",
-    "COLOR": "#a52183",
-    "C-LOGO": "https://static-cdn.jtvnw.net/jtv_user_pictures/009a69b5-e022-41e4-9e8f-499576ca1860-profile_image-300x300.png",
-    "SUPPORT-SERVER": "https://discord.gg/hvw5Rx6CK8",
-    "INVITE-LINK": "https://discord.com/api/oauth2/authorize?client_id=874295257288806401&permissions=379969&scope=bot",
-    "ClientID": "81ws43kaah5gxsp2gzgzfer7wx6yzd",
-    "AuthKey": "l50kwnq3frcqjaqqzpsjgutdatc6n3",
-    "PREFIX": "==",
-    "ROLES": {
-        "STAFF": {
-            "DEV": "874465663413026888",
-            "ADMIN": "ROLEID"
-        }
-    }
-}
+CONFIG.JSON IS HIDDEN
